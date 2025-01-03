@@ -1,0 +1,2 @@
+This repository is a mod for <a href="https://store.steampowered.com/app/1324130/Stranded_Alien_Dawn/">Stranded : Alien Dawn</a>.  
+It will allow you to rename the electrical circuits, with the goal of knowing at a glance which circuit manages what.
